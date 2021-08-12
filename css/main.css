@@ -57,6 +57,7 @@ body {
 }
 
 .banner {
+  background-color: #522806;
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 1fr;
@@ -86,7 +87,7 @@ body {
 
 .banner a {
   display: inline-block;
-  background-color: transparent;
+  background-color: #522806;
   padding: .5em 1.5em .6em;
   border: .3rem solid #bea59b;
   border-radius: 1em;
